@@ -45,5 +45,33 @@ Core Idea of Project is to build an sample prototype Health Website with QnA Bot
 
 -Other Azure Technologies :<br>
 >App Service<br>
+  
+## ScreenShots:
+  
+![Screenshot (32)](https://user-images.githubusercontent.com/111223512/204308003-b256d3d8-ced6-4697-9d22-6a28ca13af50.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/111223512/204308009-de4ae210-271b-4436-b188-f1a7c32f3344.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/111223512/204308013-0d3e6cd1-6293-48d7-a62e-5b80a56e0b00.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/111223512/204308015-6cea0c3a-6290-4467-a8e8-51bcdc80f56d.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/111223512/204308020-8bcd303a-a341-4d79-a11b-973aaec647a3.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/111223512/204308025-fce85b6d-f4c4-4f38-9e9e-abe4689fd024.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/111223512/204308029-eee11006-6955-47ea-8942-d49da044c6c7.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/111223512/204308035-6c77108d-13fb-4c4a-b463-e136d154aed3.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/111223512/204308037-ce7c9729-e4d3-46ea-bd51-4ec862e51c1b.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/111223512/204308045-0f493daa-7036-47aa-b7ce-1222a2041be5.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/111223512/204308049-e8a0192f-3477-4972-9e9d-1806714013af.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/111223512/204308054-a60e6374-a0a2-44a1-86e4-4fbad46e578a.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/111223512/204308056-b2ead33b-6b43-46b8-8221-338c4420c83a.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/111223512/204308063-0592871c-8f38-417f-89a1-a9ef3b572aa9.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/111223512/204308065-3d7c8098-9c18-4fe3-a78a-e2890748cc97.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/111223512/204308069-6d973348-38a4-400a-a1d7-3c9a7772674e.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/111223512/204308071-05082480-8f50-4cab-8489-62df7d764b0a.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/111223512/204308076-7982f28c-7661-4162-bec9-a3c912c0e796.png)
+
+  
+  
+  
+  
+  
+  
 
 <b>Project Demo Link: https://black-grass-09c9f7000.2.azurestaticapps.net
