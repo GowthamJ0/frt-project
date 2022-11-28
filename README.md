@@ -46,4 +46,4 @@ Core Idea of Project is to build an sample prototype Health Website with QnA Bot
 -Other Azure Technologies :<br>
 >App Service<br>
 
-<b>Project Link : 
+<b>Project Demo Link: https://black-grass-09c9f7000.2.azurestaticapps.net
