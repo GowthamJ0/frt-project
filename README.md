@@ -11,7 +11,7 @@
 
 This is a 6 Page Covid-Helper Front End website design
 
-Web Technologies used: HTML, CSS, JS, Bootstrap
+Web Technologies used: HTML, CSS.
 
 IDE: VS-Code
 
@@ -23,7 +23,7 @@ Health
 <br><br>
 
 ### Project Title :
-Kovid with QnA Bot
+Kovid with Health Bot
 
 
 ### Problem Statement/Opportunity :
@@ -40,9 +40,6 @@ Core Idea of Project is to build an sample prototype Health Website with QnA Bot
 -<b>Primary Azure Technology :<b><br>
 >Static Web App<br>
 >Azure Health Bot Service<br>
->Web App Bot<br>
-
-
 -Other Azure Technologies :<br>
 >App Service<br>
   
